@@ -1,0 +1,8 @@
+## Interface: 70200
+## Title: QuestChain Tracker
+## Author: Nachsacred
+## Version: 0.1.5
+## Notes: Allows you to check which quest is next to complete in a storyline or quest chain.
+
+QuestChainTracker.lua
+QuestChainTrackerShow.lua

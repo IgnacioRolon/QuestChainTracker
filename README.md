@@ -8,7 +8,6 @@ Features:
 
 -Shows you the ID of the quest at the moment you take it to help you check the Database quicker.
 
-Downloads:
 
 Download the Latest Stable Version here: https://github.com/IgnacioRolon/QuestChainTracker/raw/master/QuestChainTracker.rar
 

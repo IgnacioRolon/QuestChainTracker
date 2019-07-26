@@ -9,7 +9,7 @@ Features:
 -Shows you the ID of the quest at the moment you take it to help you check the Database quicker.
 
 
-Download the Latest Stable Version here: https://github.com/IgnacioRolon/QuestChainTracker/raw/master/QuestChainTracker.rar
+Download the Latest Stable Version here: https://github.com/IgnacioRolon/QuestChainTracker/releases/download/v0.1.5/QuestChainTracker.rar
 
 Download the Beta Version here: Currently in Development. Beta will include Class Hall campaigns.
 

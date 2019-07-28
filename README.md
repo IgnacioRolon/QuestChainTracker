@@ -4,9 +4,9 @@ QuestChainTracker is an addon specially made for the WoW-Freakz server which hel
 
 Features:
 
--Allows you to check every chapter quests to never get lost into which quest is next.	-Allows you to check every chapter quests to never get lost into which quest is next.
+-Allows you to check every chapter quests to never get lost into which quest is next.
 
--Shows you the ID of the quest at the moment you take it to help you check the Database quicker.	-Shows you the ID of the quest at the moment you take it to help you check the Database quicker.
+-Shows you the ID of the quest at the moment you take it to help you check the Database quicker.	
 
 
 Download the Latest Stable Version here: https://github.com/IgnacioRolon/QuestChainTracker/releases/download/v0.1.5/QuestChainTracker.rar

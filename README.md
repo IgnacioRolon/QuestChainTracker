@@ -1,6 +1,6 @@
 # QuestChainTracker
 Welcome to the Repository for the Quest Chain Tracker addon made for WoW-Freakz.
-QuestChainTracker is an addon specially made for the WoW-Freakz server which helps you track which quest is next on a storyline, even if you have abandoned that quest in the past. By simply writing a command choosing the chapter you want to check, you'll be able to see which quest is next on each Zone Storyline.	QuestChainTracker is an addon specially made for the WoW-Freakz server which helps you track which quest is next on a storyline, even if you have abandoned that quest in the past. By simply writing a command choosing the chapter you want to check, you'll be able to see which quest is next on each Zone Storyline.
+QuestChainTracker is an addon specially made for the WoW-Freakz server which helps you track which quest is next on a storyline, even if you have abandoned that quest in the past. By simply writing a command choosing the chapter you want to check, you'll be able to see which quest is next on each Zone Storyline.
 
 Features:
 

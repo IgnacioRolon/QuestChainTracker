@@ -11,7 +11,7 @@ Features:
 
 Download the Latest Stable Version here: https://github.com/IgnacioRolon/QuestChainTracker/releases/download/v0.1.5/QuestChain.Tracker.rar
 
-Download the Beta Version here: Currently in Development. Beta will include Class Hall campaigns.	Download the Beta Version
+Download the Beta Version here: Currently in Development. Beta will include Class Hall campaigns.
 
 To use the addon once installed, just write "/qc help" for more info on how to use it. 
 
